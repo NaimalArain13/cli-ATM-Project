@@ -1,7 +1,7 @@
 {
-  "name": "@naimalarain13cli-atm",
+  "name": "@naimalarain13/atm-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "Create a CLI Calculator with TypeScript, Inquirer AND Chalk. I also created a enum to prevent from any possible spelling mistake.",
   "main": "index.js",
   "type": "module",
   "bin": "app.js",
@@ -12,7 +12,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Naimal Salahuddin",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16"

@@ -1,5 +1,5 @@
 {
-  "name": "@naimalarain13/atm",
+  "name": "cli-atm123",
   "version": "1.0.0",
   "description": "Create a CLI Calculator with TypeScript, Inquirer AND Chalk. I also created a enum to prevent from any possible spelling mistake.",
   "main": "index.js",

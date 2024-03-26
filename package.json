@@ -1,6 +1,6 @@
 {
   "name": "cli-atm123",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a CLI Calculator with TypeScript, Inquirer AND Chalk. I also created a enum to prevent from any possible spelling mistake.",
   "main": "index.js",
   "type": "module",

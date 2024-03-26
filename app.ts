@@ -69,8 +69,7 @@ const handleInquiry = () => {
 };
 
 let dummyUser = {
-  name: "Naimal Salahudidn",
-  balance: 100000,
+  balance: 100000
 };
 
 //defining enum to prevent from possible typo
